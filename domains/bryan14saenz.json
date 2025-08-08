@@ -5,5 +5,8 @@
   },
   "record": {
     "CNAME": "portafoliob14s.netlify.app"
+    "www": {
+        "CNAME": "portafoliob14s.netlify.app"
+    }
   }
 }
